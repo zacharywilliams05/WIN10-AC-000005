@@ -1,8 +1,8 @@
-# STIG-Implementation-WIN10-AC-000005
-STIG Implementation WIN10-AC-000005
+# STIG-Implementation-WN10-AC-000005
+STIG Implementation WN10-AC-000005
 
 # WIN10-AC-000005
-STIG Implementation WIN10-AC-000005
+STIG Implementation WN10-AC-000005
 
 <#
 .SYNOPSIS
@@ -17,7 +17,7 @@ STIG Implementation WIN10-AC-000005
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WIN10-AC-000005
+    STIG-ID         : WN10-AC-000005
 
 .TESTED ON
     Date(s) Tested  : 
@@ -26,7 +26,7 @@ STIG Implementation WIN10-AC-000005
     PowerShell Ver. : 
 
 .USAGE
-    PS C:\> .\__remediation_template(STIG-ID-WIN10-AC-000005).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-AC-000005).ps1 
 #>
 
 ```powershell
