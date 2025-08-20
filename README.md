@@ -1,7 +1,7 @@
 # STIG-Implementation-WN10-AC-000005
 STIG Implementation WN10-AC-000005
 
-# WIN10-AC-000005
+# WN10-AC-000005
 STIG Implementation WN10-AC-000005
 
 <#
