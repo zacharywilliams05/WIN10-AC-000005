@@ -29,6 +29,7 @@ STIG Implementation WIN10-AC-000005
     PS C:\> .\__remediation_template(STIG-ID-WIN10-AC-000005).ps1 
 #>
 
+```powershell
 # Note: You may need to change your execution policy to RemoteSigned before running this script.
 # You can do this by running the following command in an elevated PowerShell session:
 # Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -44,3 +45,4 @@ net accounts /lockoutduration:$lockoutDuration
 
 # Provide feedback to the user
 Write-Host "Lockout duration has been set to $lockoutDuration minutes."
+```
